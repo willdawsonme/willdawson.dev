@@ -5,7 +5,7 @@ import Avatar from './Avatar.png';
 
 const App = () => {
   return (
-    <div className="bg-white dark:bg-black min-h-screen">
+    <div>
       <div className="max-w-4xl mx-auto p-10 animate-appear">
         <header className="pt-8">
           <img src={Avatar} className="avatar rounded-full w-40 h-40 mb-8" />
